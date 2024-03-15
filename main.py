@@ -6,6 +6,7 @@ from utils.functions import load_player
 from utils.functions import len_word
 
 
+
 def __main__():
     data = get_data(URL)
     random_word = get_random_word(data)
