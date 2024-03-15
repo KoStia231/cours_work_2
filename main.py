@@ -37,5 +37,6 @@ def __main__():
 
     print(f'Игра завершена, вы угадали {player.count_user_words_us()} слов!')
 
+
 if __name__ == "__main__":
     __main__()
